@@ -1,6 +1,6 @@
 <h1 align="center"> deer </h1>
 
-<p align="center"> php.</p>
+<p align="center"> php utils </p>
 
 
 ## Installing
