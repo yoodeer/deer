@@ -1,4 +1,4 @@
-<h1 align="center"> deer </h1>
+<h1 align="center"> yoodeer-utils </h1>
 
 <p align="center"> php utils </p>
 
@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require yoodeer/deer -vvv
+$ composer require yoodeer/utils -vvv
 ```
 
 ## Usage
