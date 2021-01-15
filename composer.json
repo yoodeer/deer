@@ -1,0 +1,19 @@
+{
+    "name": "yoodeer\/utils",
+    "description": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yoodeer",
+            "email": "yoodeer@yeah.net"
+        }
+    ],
+    "require": {
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "YooDeer\\Utils\\": "src"
+        }
+    }
+}
